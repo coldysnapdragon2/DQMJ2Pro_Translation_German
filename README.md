@@ -1,4 +1,7 @@
 ### [F.A.Q](Guide/faq.md)
+German Translation for DQMJ2PRO currently in works.
+
+
 
 This fork of Ceris White's Joker 2 Professional repository includes a completed translation and localisation by the English Translation Project team.
 
