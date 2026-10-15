@@ -1,95 +1,93 @@
 
 
-{30f} fled!
-You were defeated...
+{321}{30f}'s Team flieht!
+{321}{30f}'s Team wurde ausgelöscht!
 
-But you were surrounded!
-You surprised the enemy!
-Preemptive strike!
-This looks like a good time to scout!
+Aber der Feind blockiert den Weg!
+Der Feind ist wie gelähmt!
+Der Feind greift plötzlich an!
+Perfekter Zeitpunkt zum Werben!
 {321}{328}
-And the result is...
-{321}{30f}'s team wins!
-{321}{30f}'s team loses!
-It's a draw!
-The opponent forfeits!
-{321}{30f}'s team forfeits!
+Und das Ergebnis ist...
+{321}{30f}'s Team gewinnt!
+{321}{30f}'s Team verliert!
+Unentschieden!
+The opponent forfeits the battle!
+{321}{30f} forfeits the battle!
 Both teams forfeit, so it's a draw!
-The Standby Team is here to help!
-The missing lynx wanders off.
-But they can't cast spells!
-A gigantic monster is nearby.
-The enemy flees!
-{30f} dropped {322}G!
-A gigantic monster attacks!
-The gigantic monster wandered off.
+But substitute support arrives!
+Der Flüguar wandert davon.
+Kann keine Zauber wirken!
+Ein riesen Monster ist in der Nähe...
+Der Feind flieht!
+{322} Goldmünzen fallen auf den Boden...
+Das Riesenmonster greift an!
+Das Riesenmonster wandert davon.
 The enemy is flustered!
 Everybody gets psyched up!
 The enemy is annihilated!
-The gigantic monster attacks!
+Das Riesenmonster greift an!
 Everybody cowers in fear!
-Everybody is confused!
-{321}{30f}'s team prays...
-An enemy joined {30f}'s team!
-But the gigantic monster wanders off.
-{321}{30b}{00} has disappeared.
-The gigantic monster closes in!
-Insufficient MP!
-But the dance is sealed!
-But their mouth is shut!
-Abiliterated!
-Blade is blunted!
-Steals {328}!
-Steals {322}G!
-But nothing happens!
-Attack
-Defence
-Agility
+Jeder ist Verwirrt!
+{321}{30f}'s Team betet...
+Ein Feind tritt {30f}'s Team bei!
+Der Wurm verschwindet.
+{321}{30b}{00} ist verschwunden.
+Das Riesenmonster kommt näher!
+nicht genügend MP!
+Darf nicht tanzen!
+Der Maul ist geschlossen!
+Fähigkeitssperre!
+Klingenbrecher!
+Stiehlt {328}!
+Stiehlt {322} Goldmünzen!
+Aber nichts passiert!
+Angriff
+Abwehr
+Flinkheit
 Wisdom
-{322} bubbles furiously!
-{322} roars fiercely!
-{322} gets aggravated!
-{322} flails angrily!
-{322} starts slamming around!
-{322} screams in anger!
-{322} seems perturbed...
-{322} bulks up!
-Do nothing
-Fight
-Order
-Tactics
-Scout
-Items
-Flee
+Fired up!
+Fired up!
+Fired up!
+Fired up!
+Fired up!
+Fired up!
+Fired up!
+Fired up!
+Nichts tun
+Kämpfen
+Befehle
+Taktiken
+Werben
+Gegenstände
+Fliehen
 
-You can't scout because the monster pen is full!
-Switch
-Forfeit
-Turns Remaining: {322}
-Time Remaining: {324}
-Waiting for opponent...
-Can't cast spells!
-Turn {322}
-Battle {324}
-{321}{30f} prepares to scout!
-A talented scouting!
+You've got a full complement of monsters, so you can't scout any more.
+Wechseln
+Fliehen
+Züge übrig: {322}
+Zeit übrig: {324}
+Wartet auf Gegner...
+Kann keine Zauber wirken!
+Zug {322}
+Kampf {324}
+{321}{30f} schickt sich an zu Werben!
+Ein talentiertes Anwerben!
 
-Scouting successful!
-Failed to scout!
+Erfolgreich angeworben!
+Werben Fehlgeschlagen!
 
-The monster is sizing things up.
-The monster took offense!
-
-
-Obtained {322} skill points!
-{322} has reached max level!
-Obtained {328}!
-Forfeit the current battle.
-Return to the current battle.
-This monster is special,{315}so it cannot be scouted!
-This monster is special,{315}so it cannot be scouted!
+Der Feind analysiert die Lage.
+Der Feind fühlt sich beleidigt!
 
 
+Erhält {322} Talent Punkte!
+Hat die Maximale Stufe{315}erreicht.
+Erhält {328}!
+Aus dem aktuellem Kampf fliehen.
+Zurück zum Kampf.
+Dieses Monster ist Speziell,{315}Es kann nicht angeworben werden!
+Dieses Monster ist Speziell,{315}Es kann nicht angeworben werden!
 
 
 
@@ -100,41 +98,43 @@ This monster is special,{315}so it cannot be scouted!
 
 
 
-Message not supported
+
+
+Kann nicht agieren.
 
 Attack restored!
 Defence restored!
 Agility restored!
 Wisdom restored!
 The Insulatle has worn off!
-The poison has worn off!
-The monster is not offended!
-The monster has calmed down a bit!
-The paralysis has worn off!
-The monster woke up!
-The monster is no longer confused!
-The Tongue Lashing has worn off!
-The dance effect has worn off!
-The monster is no longer afraid!
-The monster is no longer afraid!
-The monster can cast spells again!
-The monster can dance again!
-The Gobstop effect has worn off!
-Accuracy restored!
-Accuracy restored!
-Accuracy restored!
-Resistance is restored!
+Nicht länger vergiftet!
+Not offended!
+Regt sich ab!
+Nicht mehr paralysiert!
+Wacht auf!
+Kommt wieder zu Sinnen!
+Ist den Speichel losgeworden!
+Tanzt nicht mehr!
+Reisst sich zusammen!
+Hat keine Angst mehr!
+Kann wieder zaubern!
+Kann wieder tanzen!
+Kann wieder Mundgeruch nutzen!
+Sand losgeworden!
+Illusionen sind verschwunden!
+Schaltet das Hirn ein!
+Resistenz ist wieder normal!
 Resistance is restored!
 Critical Miss has worn off!
-Bounce has worn off!
-Deep Breath has worn off!
+Boing wirkt nicht mehr!
+exhalierer wirkt nicht mehr!
 Brake Wind has worn off!
-Mist Me has worn off!
+Der Nebel schwindet!
 Resistance is restored!
-Reheal has worn off!
-Artful Dodger has worn off!
-Clang has worn off!
-Counter has worn off!
+Heilt nicht mehr automarisch!
+Kann nicht mehr so gut ausweichen!
+Ist wieder aus Fleisch und Blut!
+Kann nicht mehr Kontern!
 Active again!
 The Amor Seco Rain has worn off!
 The Song of Salvation has worn off!
@@ -143,9 +143,9 @@ The effect has worn off!
 Prezing has worn off!
 Abiliterator has worn off!
 Blade Blunter has worn off!
-Aha has worn off!
-Selflessness has worn off!
-Tacticlamp has worn off!
-Resurrected!!
-Lingering Mahlhaze has worn off!
-Unnatural Order has worn off!
+Aha! ist abgelaufen!
+Selbstlosigkeit ist nicht mehr wirksam!
+Kann wieder Taktiken verwenden!
+Wiederbelebt!
+The Lingering Malhaze has worn off!
+Der Effekt von Unnatürliche Ordnung ist abgelaufen!

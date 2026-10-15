@@ -1,256 +1,229 @@
-Vuln to Frizz
+Anfäl. f. Fauch
 
-Frizz Dmg↓25%
-Frizz Dmg↓50%
-Frizz Dmg↓75%
-Frizzproof
-Reflects Frizz
-Healed by Frizz
-Vuln to Bang
+Fauch Schad. ↓25%
+Fauch Schad. ↓50%
+Fauch Schad. ↓75%
+Fauchsicher
+Reflek. Fauch
+Geheilt. d. Fauch
+Anfäl. f. Peng
 
-Bang Dmg↓25%
-Bang Dmg↓50%
-Bang Dmg↓75%
-Bangproof
-Reflects Bang
-Healed by Bang
-Vuln to Woosh
+Peng Schad. ↓25%
+Peng Schad. ↓50%
+Peng Schad. ↓75%
+Pengsicher
+Reflek. Peng
+Geheilt. d. Peng
+Anfäl. f. Säusel
 
-Woosh Dmg↓25%
-Woosh Dmg↓50%
-Woosh Dmg↓75%
-Wooshproof
-Reflects Woosh
-Healed by Woosh
-Vuln to Crack
+Säusel Schad. ↓25%
+Säusel Schad. ↓50%
+Säusel Schad. ↓75%
+Säuselsicher
+Reflek.Säusel
+Geheilt. d. Säusel
+Anfäl. f. Knirsch
 
-Crack Dmg↓25%
-Crack Dmg↓50%
-Crack Dmg↓75%
-Crackproof
-Reflects Crack
-Healed by Crack
-Vuln to Zap
+Knirsch Schad. ↓25%
+Knirsch Schad. ↓50%
+Knirsch Schad. ↓75%
+Knirschsicher
+Reflek.Knirsch
+Geheilt. d. Knirsch
+Anfäl. f. Zack
 
-Zap Dmg↓25%
-Zap Dmg↓50%
-Zap Dmg↓75%
-Zapproof
-Reflects Zap
-Healed by Zap
-Vuln to Zam
+Zack Schad. ↓25%
+Zack Schad. ↓50%
+Zack Schad. ↓75%
+Zacksicher
+Reflek.Zack
+Geheilt. d. Zack
+Anfäl. f. Gritz
 
-Zam Dmg↓25%
-Zam Dmg↓50%
-Zam Dmg↓75%
-Zamproof
-Reflects Zam
-Healed by Zam
-Vuln to Fire Brth
+Gritz Schad. ↓25%
+Gritz Schad. ↓50%
+Gritz Schad. ↓75%
+Gritzsicher
+Reflek.Gritz
+Geheilt. d. Gritz
+Anfäl. f. Feuerodem
 
-Fire Brth Dmg↓25%
-Fire Brth Dmg↓50%
-Fire Brth Dmg↓75%
-Fire Breathproof
-Reflects Fire Brth
-Healed by Fire Brth
-Vuln to Ice Brth
+Feuerodem Schad. ↓25%
+Feuerodem Schad. ↓50%
+Feuerodem Schad. ↓75%
+Feuerodemsicher
+Reflek.Feuerodem
+Geheilt. d. Feuerodem
+Anfäl. f. Eisodem
 
-Ice Brth Dmg↓25%
-Ice Brth Dmg↓50%
-Ice Brth Dmg↓75%
-Ice Breathproof
-Reflects Ice Brth
-Healed by Ice Brth
-Vuln to Whack
+Eisodem Schad. ↓25%
+Eisodem Schad. ↓50%
+Eisodem Schad. ↓75%
+Eisodemsicher
+Reflek.Eisodem
+Geheilt. d. Eisodem
+Anfäl. f. wupp
 
-Whack Res↑25%
-Whack Res↑50%
-Whack Res↑75%
-Whackproof
-Reflects Whack
-Whackproof
-Vuln to Dazzle
+wupp Resis. ↑25%
+wupp Resis. ↑50%
+wupp Resis. ↑75%
+wuppsicher
+Reflek.wupp
+wuppsicher
+Anfäl. f. Verblendung
 
-Dazzle Res↑25%
-Dazzle Res↑50%
-Dazzle Res↑75%
-Dazzleproof
-Reflects Dazzle
-Dazzleproof
-Vuln to Poison
+Verblendung Resis. ↑25%
+Verblendung Resis. ↑50%
+Verblendung Resis. ↑75%
+Verblendungsicher
+Reflek.Verblendung
+Verblendungsicher
+Anfäl. f. Gift
 
-Poison Res↑25%
-Poison Res↑50%
-Poison Res↑75%
-Poisonproof
-Reflects Poison
-Poisonproof
-Vuln to Drain Mgc
+Gift Resis. ↑25%
+Gift Resis. ↑50%
+Gift Resis. ↑75%
+Giftsicher
+Reflek.Gift
+Giftsicher
+Anfäl. f. Magieentzug
 
-Drain Mgc Res↑25%
-Drain Mgc Res↑50%
-Drain Mgc Res↑75%
-Drain Mgcproof
-Reflects Drain Mgc
-Drain Mgcproof
-Vuln to Fizzle
+Magieentzug Resis. ↑25%
+Magieentzug Resis. ↑50%
+Magieentzug Resis. ↑75%
+Magieentzugsicher
+Reflek.Magieentzug
+Magieentzugsicher
+Anfäl. f. Ätsch
 
-Fizzle Res↑25%
-Fizzle Res↑50%
-Fizzle Res↑75%
-Fizzleproof
-Reflects Fizzle
-Fizzleproof
-Vuln to Gobstopper
+Ätsch Resis. ↑25%
+Ätsch Resis. ↑50%
+Ätsch Resis. ↑75%
+Ätschsicher
+Reflek.Ätsch
+Ätschsicher
+Anfäl. f. Maulkorb
 
-Gobstopper Res↑25%
-Gobstopper Res↑50%
-Gobstopper Res↑75%
-Gobstopperproof
-Reflects Gobstopper
-Gobstopperproof
-Vuln to Ban Dance
+Maulkorb Resis. ↑25%
+Maulkorb Resis. ↑50%
+Maulkorb Resis. ↑75%
+Maulkorbsicher
+Reflek.Maulkorb
+Maulkorbsicher
+Anfäl. f. Tanzbann
 
-Ban Dance Res↑25%
-Ban Dance Res↑50%
-Ban Dance Res↑75%
-Ban Danceproof
-Reflects Ban Dance
-Ban Danceproof
-Vuln to Confusion
+Tanzbann Resis. ↑25%
+Tanzbann Resis. ↑50%
+Tanzbann Resis. ↑75%
+Tanzbannsicher
+Reflek.Tanzbann
+Tanzbannsicher
+Anfäl. f. Verwirrungs
 
-Confusion Res↑25%
-Confusion Res↑50%
-Confusion Res↑75%
-Confusionproof
-Reflects Confusion
-Confusionproof
-Vuln to Inaction
+Verwirrungs Resis. ↑25%
+Verwirrungs Resis. ↑50%
+Verwirrungs Resis. ↑75%
+Verwirrungssicher
+Reflek.Verwirrungs
+Verwirrungssicher
+Anfäl. f. Inaktivität
 
-Inaction Res↑25%
-Inaction Res↑50%
-Inaction Res↑75%
-Inactionproof
-Reflects Inaction
-Inactionproof
-Vuln to Paralysis
+Inaktivität Resis. ↑25%
+Inaktivität Resis. ↑50%
+Inaktivität Resis. ↑75%
+Inaktivitätsicher
+Reflek.Inaktivität
+Inaktivitätsicher
+Anfäl. f. Paralyse
 
-Paralysis Res↑25%
-Paralysis Res↑50%
-Paralysis Res↑75%
-Paralysisproof
-Reflects Paralysis
-Paralysisproof
-Vuln to Sleep
+Paralyse Resis. ↑25%
+Paralyse Resis. ↑50%
+Paralyse Resis. ↑75%
+Paralysesicher
+Reflek.Paralyse
+Paralysesicher
+Anfäl. f. Schlaf
 
-Sleep Res↑25%
-Sleep Res↑50%
-Sleep Res↑75%
-Sleepproof
-Reflects Sleep
-Sleepproof
-Vuln to Sag
+Schlaf Resis. ↑25%
+Schlaf Resis. ↑50%
+Schlaf Resis. ↑75%
+Schlafsicher
+Reflek.Schlaf
+Schlafsicher
+Anfäl. f. Angiffsschwächung
 
-Sag Res↑25%
-Sag Res↑50%
-Sag Res↑75%
-Sagproof
-Reflects Sag
-Sagproof
-Vuln to Sap
+Angiffsschwä. Resis. ↑25%
+Angiffsschwä. Resis. ↑50%
+Angiffsschwä. Resis. ↑75%
+Angiffsschwä. sicher
+Reflek.Angiffsschwä.
+Angiffsschwä. sicher
+Anfäl. f. Abwehrschwä.
 
-Sap Res↑25%
-Sap Res↑50%
-Sap Res↑75%
-Sapproof
-Reflects Sap
-Sapproof
-Vuln to Decelerate
+Abwehrschwä. Resis. ↑25%
+Abwehrschwä. Resis. ↑50%
+Abwehrschwä. Resis. ↑75%
+Abwehrschwä.sicher
+Reflek.Abwehrschwä.
+Abwehrschwä.sicher
+Anfäl. f. Verlangsamung
 
-Decelerate Res↑25%
-Decelerate Res↑50%
-Decelerate Res↑75%
-Decelerateproof
-Reflects Decelerate
-Decelerateproof
-Vuln to Dim
+Verlangsamung Resis. ↑25%
+Verlangsamung Resis. ↑50%
+Verlangsamung Resis. ↑75%
+Verlangsamungsicher
+Reflek.Verlangsamung
+Verlangsamungsicher
+Anfäl. f. Weisheitsverringerung
 
-Dim Res↑25%
-Dim Res↑50%
-Dim Res↑75%
-Dimproof
-Reflects Dim
-Dimproof
-Vuln to Sizz
+Weisheitsverringerung Resis. ↑25%
+Weisheitsverringerung Resis. ↑50%
+Weisheitsverringerung Resis. ↑75%
+Weisheitsverringerungsicher
+Reflek.Weisheitsverringerung
+Weisheitsverringerungsicher
+Anfäl. f. Knister
 
-Sizz Dmg↓25%
-Sizz Dmg↓50%
-Sizz Dmg↓75%
-Sizzproof
-Reflects Sizz
-Healed by Sizz
-Vuln to Mgc Sabotage
+Knister Schad. ↓25%
+Knister Schad. ↓50%
+Knister Schad. ↓75%
+Knistersicher
+Reflek.Knister
+Geheilt. d. Knister
+Anfäl. f. Magische Schwächung
 
-Mgc Sabotage Res↑25%
-Mgc Sabotage Res↑50%
-Mgc Sabotage Res↑75%
-Mgc Sabotageproof
-Reflects Mgc Sabotage
-Mgc Sabotageproof
-Vuln to Abiliterator
+Magische Schwächung Resis. ↑25%
+Magische Schwächung Resis. ↑50%
+Magische Schwächung Resis. ↑75%
+Magische Schwächungsicher
+Reflek.Magische Schwächung
+Magische Schwächungsicher
+Anfäl. f. Talentsperre
 
-Abiliterator Res↑25%
-Abiliterator Res↑50%
-Abiliterator Res↑75%
-Abiliteratorproof
-Reflects Abiliterator
-Abiliteratorproof
-Vuln to Blade Blntr
+Talentsperre Resis. ↑25%
+Talentsperre Resis. ↑50%
+Talentsperre Resis. ↑75%
+Talentsperresicher
+Reflek.Talentsperre
+Talentsperresicher
+Anfäl. f. Klingenbrecher
 
-Blade Blntr Res↑25%
-Blade Blntr Res↑50%
-Blade Blntr Res↑75%
-Blade Blunterproof
-Reflects Blade Blntr
-Blade Blunterproof
-Vuln to Donk
+Klingenbrecher Resis. ↑25%
+Klingenbrecher Resis. ↑50%
+Klingenbrecher Resis. ↑75%
+Klingenbrechersicher
+Reflek.Klingenbrecher
+Klingenbrechersicher
+Anfäl. f. Donk
 
-Donk Dmg↓25%
-Donk Dmg↓50%
-Donk Dmg↓75%
-Donkproof
-Reflects Donk
-Donkproof
-Practically Invincible
-Attack Magicproof
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Plumps Schad. ↓25%
+Plumps Schad. ↓50%
+Plumps Schad. ↓75%
+Plumpssicher
+Reflek.Plumps
+Plumpssicher
+Praktisch unverwundbar
+Magiesicher
 
 
 

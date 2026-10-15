@@ -1,122 +1,122 @@
 
-Frizz & Bang
-Prince
-Frizz & Bang II
-Frizz & Woosh
-Princess
-Frizz & Woosh II
-Frizz & Zap
+Fauch & Peng
+Prinz
+Fauch & Peng II
+Fauch & Säusel
+Prinzessin
+Fauch & Säusel II
+Fauch & Zick
 Metal Crusher
-Frizz & Zap II
-Frizz & Zam
+Fauch & Zick II
+Fauch & Gritz
 Zero Seal
-Frizz & Zam II
-Bang & Woosh
+Fauch & Gritz II
+Peng & Säusel
 Giant Killer
-Bang & Woosh II
-Bang & Crack
-Breathbreaker II
-Bang & Crack II
-Bang & Zap
-Swordbreaker
-Bang & Zap II
-Bang & Zam
-Swordbreaker II
-Bang & Zam II
-Woosh & Crack
-King Sanguini
-Woosh & Crack II
-Woosh & Zap
+Peng & Säusel II
+Peng & Knirsch
+Odembrecher II
+Peng & Knirsch II
+Peng & Zick
+Swordbrecher
+Peng & Zick II
+Peng & Gritz
+Swordbrecher II
+Peng & Gritz II
+Säusel & Knirsch
+Flederkönig
+Säusel & Knirsch II
+Säusel & Zick
 Scruffy
-Woosh & Zap II
-Woosh & Zam
-Robbin's Old Lady
-Woosh & Zam II
-Crack & Zap
-Prism Peacock
-Crack & Zap II
-Crack & Zam
-Dark Mecha-Slime
-Crack & Zam II
-Fire
-Slime Blaster
-Fire II
-Ice
-Diamond Slime
-Ice II
-Breath
+Säusel & Zick II
+Säusel & Gritz
+Rächer's Alte
+Säusel & Gritz II
+Knirsch & Zick
+Prismapfau
+Knirsch & Zick II
+Knirsch & Gritz
+Dunkler Mecha Schleim
+Knirsch & Gritz II
+Feuer
+Schleim Blaster
+Feuer II
+Eis
+Diamantschleim
+Eis II
+Odem
 Slider Girl
-Breath II
-Firewind Slashes
-Thunderwind Slashes
-Iceplosion Slashes
-Darklight Slashes
-Fire Fighter
-Boom Boxer
-Wind Blower
-Icemeister
-White Knight
-Dark Knight
-Healer
-Cure-all
-Cleanser
+Odem II
+Feuerwindhiebe
+Blitzwindhiebe
+Eisplosionshiebe
+Dunkellichthiebe
+Feuerkämpfer
+Heißsporn
+Windstürmer
+Eismeister
+Weißer Ritter
+Dunkler Ritter
+Heiler
+Einer-heilt-alle
+Zipperleinweg
 Champion
-Defender
+Verteidiger
 Speedster
 Mage Aid
-Fortifier
-Enfeebler
+Starkmacher
+Schwachmacher
 Saboteur
-Spellbreaker
-Spellbreaker II
-Breathbreaker
-Anti-metal
-Guard
-Barricade
-Seal
-Hypnotist
-Toxifier
-Fear-monger
-Bad Breath
-Diminisher
-Guerrilla
-Assassin
-Huntsman
-Bounty Hunter
-Crusader
-Cursader
+Zauberbrecher
+Zauberbrecher II
+Odembrecher
+Anti-Metall
+Verteider
+Barrikade
+Siegel
+Hypnotiseur
+Toxator
+Angstmacher
+Schlechter Atem
+Kleinermacher
+Guerilla
+Assassine
+Kollektivbewusstsein
+Kopfgeldjäger
+Himmelsritter
+Pik-Ass
 Muspell
 Niflheim
-Dancer
+Tänzer
 Bombardier
-Toughie
+Wüterich
 Berserker
-Martyr
-Reaper
-Nightmare
-Cold Sleep
-Cleric
-Aquapothecary
-All-Rounder
-Mime
-Trickster
-Slimer
-Beast Road
-Graveheart
-Diabolist
-Dragon Lore
-Bird Brain
-Green Finger
+Märtyrer
+Schnitter
+Nachtmahr
+Kalter-Schlaf
+Kleriker
+Aquatheker
+Alleskönner
+Pantomime
+Gauner
+Schleimer
+Naturbestie
+Gruftherz
+Diaboliker
+Drachenkünste
+Vogelhirn
+Grüner Daumen
 Hive Mind
 Materialist
-Wulfspade
-Wulfspade II
-Hawkhart
-Hawkhart II
-Diamagon
-Diamagon II
-Cluboon
-Cluboon II
+Lupikus
+Lupikus II
+Herzogryph
+Herzogryph II
+Drakaro
+Drakaro II
+Kreuzilla
+Kreuzilla II
 Dragonlord
 Dragovian Lord
 Leopold
@@ -126,90 +126,90 @@ Rhapthorne Ⅱ
 Estark
 Nimzo
 Mortamor
-Captain Crow
-Über Dark Dynamiter
-Über Blessed Blizzardier
+Käpt'n Krähe
+Supersprengmeister
+Superfrostwächter
 Über Mage
-Über Breath
+Über Odem
 Über Knight
-Über Healer
+Über Heiler
 Über Helpful
 Über Charmer
-Wulfspade III
-Diamagon III
-Hawkhart III
-Cluboon III
-Dr Snapped
-Attack Boost
-Attack Boost II
-Attack Boost III
-Defense Boost
-Defense Boost II
-Defense Boost III
-Agility Boost
-Agility Boost II
-Agility Boost III
-Wisdom Boost
-Wisdom Boost II
-Wisdom Boost III
-Frizz Ward
-Bang Ward
-Woosh Ward
-Crack Ward
-Zap Ward
-Zam Ward
-Sag Ward
-Sap Ward
-Decelerate Ward
-Dim Ward
-Fire Breath Ward
-Ice Breath Ward
-Whack Ward
-Dazzle Ward
-Poison Ward
-Drain Magic Ward
-Antimagic Ward
-Gobstopper Ward
-Ban Dance Ward
-Confusion Ward
-Inaction Ward
-Paralysis Ward
-Sleep Ward
-Über Health Boost
-Über Magic Boost
-Über Attack Boost
-Über Defence Boost
-Über Agility Boost
-Über Wisdom Boost
-Über Heat Ward
-Über Cold Ward
-Über Windblast Ward
-Über Darklight Ward
-Warrior
-Mage
-Priest
-Martial Artist
-Sage
-Thief
-Frizz & Sizz
-Liquid Metal King Slime
-Frizz & Sizz II
-Bang & Sizz
+Lupikus III
+Drakaro III
+Herzogryph III
+Kreuzilla III
+Schwarzer Peter
+Angriffsverstärker
+Angriffsverstärker II
+Angriffsverstärker III
+Abwehrverstärker
+Abwehrverstärker II
+Abwehrverstärker III
+Flinkheitsverstärker
+Flinkheitsverstärker II
+Flinkheitsverstärker III
+Klügermacher
+Klügermacher II
+Klügermacher III
+Fauchresistenz
+Pengresistenz
+Säuselresistenz
+Knirschresistenz
+Zickresistenz
+Gritzresistenz
+Stumpfmacher-Resistenz
+Schwächungsresistenz
+Verlangsamungsresistenz
+Dusselresistenz
+Feuerodemresistenz
+Eisodemresistenz
+Soforttod-Resistenz
+Fata-Morgana-Resistenz
+Giftresistenz
+Magientzugresistenz
+Antimagieresistenz
+Maulkorbresistenz
+Banntanzesistenz
+Verwirrungsresistenz
+Unfähigkeitsresistenz
+Lähmungsresistenz
+Schlafresistenz
+Megalebensbonus
+Megamagiebonus
+Megaangriffsbonus
+Megaanwehrbonus
+Megaflinkheitsbonus
+Megaintelligenzbonus
+Hitzeschutz
+Kälteschutz
+Über Windblastresistenz
+Über Darklightresistenz
+Krieger
+Magier
+Priester
+Kampfkünstler
+Weiser
+Dieb
+Fauch & Knister
+Flüssigmetallschleimkönig
+Fauch & Knister II
+Peng & Knister
 Yggdrasil
-Bang & Sizz II
-Woosh & Sizz
+Peng & Knister II
+Säusel & Knister
 Pipit
-Woosh & Sizz II
-Crack & Sizz
+Säusel & Knister II
+Knirsch & Knister
 Überkilling Machine
-Crack & Sizz II
-Sizz & Zap
-King Godwyn
-Sizz & Zap II
-Sizz & Zam
+Knirsch & Knister II
+Knister & Zick
+König Gottfried
+Knister & Zick II
+Knister & Gritz
 Munchie
-Sizz & Zam II
-Sizz Ward
+Knister & Gritz II
+Knisterresistenz
 Exorsus
 Dimensaur
 Dual Duellers
@@ -222,22 +222,22 @@ Canzar
 Aquarion
 Sagittar
 Leonyx
-Wormonger
-Bjorn
-Missing Lynx
+Schlängler
+Björn
+Flüguar
 Khalamari
-Ruin
+Verderbnis
 Orochi
-Zenith Dragon
+Zenith Drache
 Empyrea
 Zoma
-Magical Sabotage Ward
-Abiliterator Ward
-Blade Blunter Ward
-Donk Ward
-Über Zapologist
-Flute Warrior
-Wildcard
+Magieentzugresistenz
+Fähigkeitsfutsch-Resistenz
+Stumpfmacher-Resistenz
+Plumpsresistenz
+Über Zickologist
+Flute Krieger
+Joker
 Wonder Construction
 Morrie's Melange
 Battle Road Master
@@ -245,12 +245,12 @@ Stella
 Hero of the Heavens
 Vile Void
 Corvus
-Great Godbird
+Großer Göttervogel
 Stormsgate Citadel
-Schwarzman Tank
+Schwarzman Panzer
 Xiphos
 Gadis
 Darck
 Magarugi
-Baboorood
-Baboodread
+Baboon Beast
+Teuflische Bestie

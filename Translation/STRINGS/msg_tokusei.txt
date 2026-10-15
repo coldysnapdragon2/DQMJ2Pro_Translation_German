@@ -1,60 +1,60 @@
-None
-Artful Dodger
-Metal Body
-Psycho
-Double Trouble
-Critical Massacre
-Metal Beater
-Fly Swatter
-Last Word
-Early Bird
-Counterstriker
-Poisonous
-Paralysing
-Escape Artist
-Steady Recovery
-Magic Regenerator
-Health Professional
-Frizzmeister
-Bangmeister
-Wooshmeister
-Crackmeister
-Zapmeister
-Zammeister
+Keine
+Wendiges Wiesel
+Metallkörper
+Konzentrator
+Nachschlag
+Kritisches Massaker
+Metallbeuler
+Fliegenklatsche
+Dickes Ende
+Früher Vogel
+Konterkünstler
+Giftig
+Lähmend
+Fluchtprofi
+Stetige Genesung
+Magieregenerator
+Heilprofi
+Fauchprofi
+Pengprofi
+Säuselprofi
+Knirschprofi
+Zickprofi
+Gritzprofi
 Desperado
-Able Ambusher
-Magic Miser
-Magic Scrooge
-Master of Weapons
-Big Hitter
-Grand Slammer
-Hit Squad
-Giant Killer
+Überrumpler
+Zauberknauser
+Zauberfuchser
+Waffenmeister
+Doppelte Dosis
+Dreifache Dosis
+Schlagsalve
+Riesentöter
 Standard Killer
-Paralysing Touch
-Poisonous Touch
-Confusing Touch
-Sleepy Touch
-Comeback Kid
-Strangely Alluring
-Yellow-belly
-Lucky
-Unlucky
-Rabble Rouser
-Heckling Hector
-Bouncer
-Counteractivist
-Hopeful Hitter
-Close Scraper
-Perilous Parrier
+Lähmungsangriff
+Giftangriff
+Verwirrungsangriff
+Schlafangriff
+Neun Leben
+Verführerisches Zwinkern
+Bummler
+Glückspilz
+Pechvogel
+Aufwiegler
+Konz. Stopper
+Abpraller
+Konter
+Alles oder nichts
+Seidener Faden
+Riskante Resistenz
 Gamble Counter
 Grumble
-Talent Scout
-Fast Learner
-Gold Getter
-Lootist
-Late Riser
-Loose Cannon
+Talentscout
+Musterschüler
+Geldmagnet
+Glücklicher Finder
+Spätaufsteher
+Alzheimer
 Rival Riler
 Disenchanted
 Full Critical Guard
@@ -64,68 +64,68 @@ Toss & Turn
 Static
 Berserker
 Stalwart Spirit
-Metal Killer
+Metalltöter
 Take Magic
 Drain Magic
 Deadly Touch
-Sizzmeister
-Scare Stare
-Imposing
+Knisterkönig
+Einschüchternd
+Imposant
 Intimidating
-Timid
-Foot Dragger
-Tactical Trooper
-Tactical Genius
-Pro Talent Scout
+Schüchtern
+Hasenfuß
+Befehlsempfänger
+Taktisches Genie
+Profi Talentscout
 HP Roulette
 MP Roulette
-Attack Roulette
-Defence Roulette
-Agility Roulette
-Wisdom Roulette
+Angriffsroulette
+Abwehrroulette
+Flinkheit Roulette
+Weisheit Roulette
 HP Gambit
 MP Gambit
-Disruptive Wave
-Wave of Relief
-Genius Talent Scout
-Crafty Frizzer
-Crafty Banger
-Crafty Woosher
-Crafty Cracker
-Crafty Zapper
-Crafty Zammer
+Störwelle
+Welle der Erleichterung
+Genius Talentscout
+Fauchexperte
+Pengexperte
+Säuselexperte
+Knirschexperte
+Zickexperte
+Gritzexperte
 Crafty Abiliterator
 Crafty Blade Blunter
-Crafty Fire Breather
-Crafty Ice Breather
-Crafty Whacker
-Crafty Dazzler
-Crafty Poisoner
-Crafty Magic Drainer
-Crafty Fizzler
-Crafty Gobstopper
-Crafty Dance Banner
-Crafty Confuser
-Crafty Inactivist
-Crafty Paralyser
-Crafty Sleeper
-Crafty Sagger
-Crafty Sapper
-Crafty Decelerater
-Crafty Dimmer
-Crafty Magical Saboteur
-Crafty Sizzer
-Crafty Donker
-Crafty Devil
+Feuerodemexp.
+Eisodemexp.
+Wuppexperte
+Fatamorganaexp.
+Giftexperte
+Magieent.exp.
+Ätsch exp.
+Maulkorb exp.
+Tanzbann exp.
+Verwirrung.exp.
+Untätigkeits exp.
+Lähmungs exp.
+Schlafexperte
+Ang. sc. exp.
+Schwäch. exp.
+Verlangsam. exp.
+Dussel exp.
+Magieschw. exp.
+Knister exp.
+Plumps exp.
+Allround Profi
 AI　2-3 Actions
 AI　0-4 Actions
 Light Metal Body
 Hard Metal Body
-Immediate Oomph
-Immediate Buff
-Immediate Accelerate
-Immediate Tension
-Immediate Malhaze
+Sporadi. Energieschub
+Sporadi. Stärkung
+Sporadi. Beschleunig.
+Sporadi. Konzentra.
+Sudden Black Fog
 Maximum HP +5
 Maximum HP +10
 Maximum HP +15
@@ -146,109 +146,108 @@ Maximum MP +26
 Maximum MP +28
 Maximum MP +30
 Maximum MP +35
-Attack +3
-Attack +5
-Attack +10
-Attack +12
-Attack +15
-Attack +18
-Attack +21
-Attack +24
-Attack +27
-Attack +30
-Defence +3
-Defence +5
-Defence +10
-Defence +12
-Defence +15
-Defence +18
-Defence +21
-Defence +24
-Defence +27
-Defence +30
-Agility +3
-Agility +5
-Agility +10
-Agility +12
-Agility +15
-Agility +18
-Agility +21
-Agility +24
-Agility +27
-Agility +30
-Wisdom +3
-Wisdom +5
-Wisdom +10
-Wisdom +12
-Wisdom +15
-Wisdom +18
-Wisdom +21
-Wisdom +24
-Wisdom +27
-Wisdom +30
-Immediate Ping
-Immediate Brake Wind
-Immediate Kafizzle
+Angriff +3
+Angriff +5
+Angriff +10
+Angriff +12
+Angriff +15
+Angriff +18
+Angriff +21
+Angriff +24
+Angriff +27
+Angriff +30
+Abwehr +3
+Abwehr +5
+Abwehr +10
+Abwehr +12
+Abwehr +15
+Abwehr +18
+Abwehr +21
+Abwehr +24
+Abwehr +27
+Abwehr +30
+Flinkheit +3
+Flinkheit +5
+Flinkheit +10
+Flinkheit +12
+Flinkheit +15
+Flinkheit +18
+Flinkheit +21
+Flinkheit +24
+Flinkheit +27
+Flinkheit +30
+Weisheit +3
+Weisheit +5
+Weisheit +10
+Weisheit +12
+Weisheit +15
+Weisheit +18
+Weisheit +21
+Weisheit +24
+Weisheit +27
+Weisheit +30
+Sporadi. Ping
+Sporadi. Windbrecher
+Sporadi. Ätsch
 Random Ping
-Random Brake Wind
+Sporadi. Windbrecher
 Random Kafizzle
-Random High Tension
-Random Magic Barrier
-Random Mist Me
+Sporadi. Konzentra.
+Sporadi. Magis. Barriere
+Sporadi. Konfuselnebel
 
 
 
-
-Frizz Guard
-Bang Guard
-Woosh Guard
-Crack Guard
-Zap Guard
-Zam Guard
+Fauch Schutz
+Peng Schutz
+Säusel Schutz
+Knirsch Schutz
+Zick Schutz
+Gritz Schutz
 Abiliterator Guard
-Sizz Guard
-Blade Blunter Guard
+Knister Schutz
+Klingenbrecher Schutz
 Donk Guard
-Fire Breath Guard
-Ice Breath Guard
-Whack Guard
+Feuerodem Schutz
+Eisodem Schutz
+Wupp Schutz
 Dazzle Guard
-Poison Guard
-Drain Magic Guard
-Fizzle Guard
-Gobstopper Guard
-Ban Dance Guard
-Confusion Guard
+Gift Schutz
+Magieentzug Schutz
+Ätsch Schutz
+Maulkorb Schutz
+Tanzbann Schutz
+Verwirrung Schutz
 Inaction Guard
-Paralysis Guard
-Sleep Guard
-Sag Guard
-Sap Guard
-Decelerate Guard
-Dim Guard
-Magical Sabotage Guard
-Mega 2-3 Actions
-Mega 2 Actions
-Mega 1-3 Actions
-Mega 0-4 Actions
-Mega 1-2 Actions
+Lähmung Schutz
+Schlaf Schutz
+Angr. Schwä. Schutz
+Abw. Schwä. Schutz
+Verlangsamung Schutz
+Dussel Schutz
+Magis. Schwä. Schutz
+2-3 Actions
+2 Actions
+Taktisches Genie
+0-4 Actions
+Befehlsempfänger
 Spell Satisfaction
 Suicidal Satisfaction
-Immediate Netherfog
-Immediate Break Seal
-Giga 2-3 Actions
-Giga 2 Actions
-Giga 1-3 Actions
-Giga 0-4 Actions
-Giga 1-2 Actions
-Random Oomph
-Random Buff
-Random Accelerate
+Sporadi. Unterwelt Nebel
+Sudden Break Seal
+2-3 Actions
+2 Actions
+1-3 Actions
+0-4 Actions
+1-2 Actions
+Sporadi. Energieschub
+Sporadi. Stärkung
+Sporadi. Beschleunigung
 Random Tension
-Random Malhaze
-Random Netherfog
+Sporadi. Dunkler Nebel
+Sporadi. Unterwelt Nebel
 Random Break Seal
-Donkmeister
+Betan
 
 
 
